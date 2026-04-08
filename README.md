@@ -7,6 +7,9 @@ This project implements a complete Business Intelligence solution, from data ing
 The goal is to transform raw sales data into actionable insights to support business decision-making.
 
 ---
+## Dashboard Preview
+![Dashboard](images/dashboard.png)
+---
 
 ## 🧱 Architecture
 
