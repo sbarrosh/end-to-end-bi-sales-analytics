@@ -204,3 +204,7 @@ python main.py
 ## 👤 Author
 
 Built as part of a portfolio project to demonstrate real-world BI and Data Engineering skills.
+
+## Images
+<img width="1290" height="722" alt="image" src="https://github.com/user-attachments/assets/cb0d104a-1bc0-44f6-bc3a-ea969ed1abf9" />
+
